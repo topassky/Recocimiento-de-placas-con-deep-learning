@@ -76,11 +76,8 @@ Para ejecutar el proyecto debes instalar las siguientes librerias:
   ```
 * tensorflow
   ```sh
- pip install tensorflow
+  pip install tensorflow
   ```
-* Keras
-  ```sh
- pip install keras
-  ```
+
 
 
